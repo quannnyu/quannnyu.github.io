@@ -93,7 +93,7 @@
             <div class="price">價格: 85元</div>
         </div>
         <div class="flavor-card">
-            <a href="https://shop.price.com.hk/MON/product/251738-%E6%B3%B0%E5%9C%8B%E7%89%88+%E6%97%A5%E6%B8%85+%E6%9D%AF%E9%BA%B5+%E6%B3%B0%E5%BC%8F%E5%86%AC%E9%99%B0%E5%85%AC%E7%81%AB%E8%BE%A3%E5%91%B3+77g+(3%E4%BB%B6%E8%A3%9D)%E3%80%90%E5%B8%82%E9%9B%86%E4%B8%96%E7%95%8C+-+%E6%B3%B0%E5%9C%8B%E5%B8%82%E9%9B%86%E3%80%91"><img src="(https://www.price.com.hk/space/ec_product/shop/251000/251738_bds8tz_0.jpg)" width="200" height="100"></a>
+            <a href="https://shop.price.com.hk/MON/product/251738-%E6%B3%B0%E5%9C%8B%E7%89%88+%E6%97%A5%E6%B8%85+%E6%9D%AF%E9%BA%B5+%E6%B3%B0%E5%BC%8F%E5%86%AC%E9%99%B0%E5%85%AC%E7%81%AB%E8%BE%A3%E5%91%B3+77g+(3%E4%BB%B6%E8%A3%9D)%E3%80%90%E5%B8%82%E9%9B%86%E4%B8%96%E7%95%8C+-+%E6%B3%B0%E5%9C%8B%E5%B8%82%E9%9B%86%E3%80%91"><img src="https://www.price.com.hk/space/ec_product/shop/251000/251738_bds8tz_0.jpg" width="200" height="100"></a>
             <h3>泰式冬陰麵</h3>
             <p>帶有酸辣風味的湯頭，搭配著香料和肉片，如果喜歡多層次口感的人必定會愛上，喝一口湯彷彿置身東南亞叢林，有著特殊的氣息，是泰國風味的泡麵選擇。</p>
             <div class="rating">評分: 4.2/5</div>
@@ -108,7 +108,7 @@
             <div class="price">價格: 33元</div>
         </div>
         <div class="flavor-card">
-            <a href="https://24h.pchome.com.tw/prod/DBAY17-A900G6HY1"><img src="![image](https://github.com/quannnyu/quannnyu.github.io/assets/146663509/b4a62eae-7feb-41da-8f56-80bc663ab302)
+            <a href="https://24h.pchome.com.tw/prod/DBAY17-A900G6HY1"><img src="https://img.pchome.com.tw/cs/items/DBAY17A900G6HY1/000001_1697596643.jpg
 " width="200" height="200"></a>
             <h3>海鮮湯麵</h3>
             <p>新鮮海鮮的鮮味融入湯頭，清爽可口，在半夜肚子餓的時候來上一碗，非常滿足，而且負擔也沒有其他泡麵這麼重，是喜愛海鮮的人士的最愛。</p>
@@ -116,7 +116,7 @@
             <div class="price">價格: 31元</div>
         </div>
         <div class="flavor-card">
-            <a href="https://24h.pchome.com.tw/prod/DBAK09-A90055VJX"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2F24h.pchome.com.tw%2Fprod%2FDBAK09-A90055VJX&psig=AOvVaw03ezkEoONhLcEXUMUzwp5Y&ust=1701686399817000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCAgf2J84IDFQAAAAAdAAAAABAM" width="200" height="200"></a>
+            <a href="https://24h.pchome.com.tw/prod/DBAK09-A90055VJX"><img src="https://img.pchome.com.tw/cs/items/DBAK09A90055VJX/000001_1657005962.jpg" width="200" height="200"></a>
             <h3>辛拉麵</h3>
             <p>帶有辣味的湯頭，搭配韓式泡菜和嫩滑的拉麵，是喜愛辣味的人士的不二之選，經典的原味，蒜香辣紅燒湯頭，喝的到香菇、胡椒的味道，味道上很豐富，另外麵條很有嚼勁，就算你煮久一點也沒問題，個人非常喜歡。</p>
             <div class="rating">評分: 4.8/5</div>
@@ -135,4 +135,5 @@
         // 例如: $(".flavor-card").hover(function() { $(this).toggleClass("hover"); });
     </script>
 </body>
+</html>
 </html>

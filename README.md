@@ -38,7 +38,8 @@
         </tr>
         <tr>
             <td>
-                <img src="https://www.luenwey.com/wp-content/uploads/2020/04/F012-%E6%B3%B0%E5%9C%8BMAMA%E7%89%8C%E6%B3%A1%E9%BA%B5-%E8%AA%BF%E5%91%B3%E6%B9%AF%E9%BA%B5%E8%B1%AC%E8%82%9D.jpg" alt="MAMA豬肉味湯麵">
+                <a href="https://www.example.com">
+    <img src="https://www.luenwey.com/wp-content/uploads/2020/04/F012-%E6%B3%B0%E5%9C%8BMAMA%E7%89%8C%E6%B3%A1%E9%BA%B5-%E8%AA%BF%E5%91%B3%E6%B9%AF%E9%BA%B5%E8%B1%AC%E8%82%9D.jpg" alt="MAMA豬肉味湯麵">
                 <p>MAMA豬肉味湯麵</p>
                 <p>評分：3.5/5</p>
                 <p>這是一種泰國風味的泡麵，湯底濃郁而酸辣，麵條細而軟，適合喜歡酸辣的口味的人。</p>

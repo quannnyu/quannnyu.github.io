@@ -31,13 +31,13 @@
         </tr>
         <tr>
             <td>
-                <img src="mama.jpg" alt="MAMA豬肉味湯麵">
+                <img src="https://down-tw.img.susercontent.com/file/tw-50009109-c118b2bfde73d7d54deacf88c77844b7" alt="MAMA豬肉味湯麵">
                 <p>MAMA豬肉味湯麵</p>
                 <p>評分：3.5/5</p>
                 <p>這是一種泰國風味的泡麵，湯底濃郁而酸辣，麵條細而軟，適合喜歡酸辣的口味的人。</p>
             </td>
             <td>
-                <img src="mama-shrimp.jpg" alt="Mama泰式泡麵酸辣蝦">
+                <img src="" alt="Mama泰式泡麵酸辣蝦">
                 <p>Mama泰式泡麵酸辣蝦</p>
                 <p>評分：4/5</p>
                 <p>這是一種泰國風味的泡麵，湯底酸辣而鮮，麵條細而有彈性，適合喜歡海鮮的口味的人。</p>
@@ -54,19 +54,20 @@
         </tr>
         <tr>
             <td>
-                <img src="shin.jpg" alt="農心辛拉麵">
+                <img src="https://i2.momoshop.com.tw/1692573840/goodsimg/0002/598/772/2598772_B.webp
+" alt="農心辛拉麵">
                 <p>農心辛拉麵</p>
                 <p>評分：5/5</p>
                 <p>這是一種韓國風味的泡麵，湯底濃郁而辣，麵條粗而有嚼勁，適合喜歡刺激的口味的人。</p>
             </td>
             <td>
-                <img src="samyang.jpg" alt="三養冷麵">
+                <img src="https://down-tw.img.susercontent.com/file/tw-50009109-c118b2bfde73d7d54deacf88c77844b7" alt="三養冷麵">
                 <p>三養冷麵</p>
                 <p>評分：3.5/5</p>
                 <p>這是一種韓國風味的泡麵，沒有熱湯，而是用冷水泡麵，麵條粗而爽，適合喜歡清爽的口味的人。</p>
             </td>
             <td>
-                <img src="nongshim.jpg" alt="農心冷麵">
+                <img src="https://mall.iopenmall.tw/website/uploads_product/website_295/P0029504483631_3_39411268.jpeg?hash=55836" alt="農心冷麵">
                 <p>農心冷麵</p>
                 <p>評分：4/5</p>
                 <p>這是一種韓國風味的泡麵，沒有熱湯，而是用冷水泡麵，麵條細而爽，適合喜歡清爽的口味的人。</p>
@@ -77,7 +78,7 @@
         </tr>
         <tr>
             <td>
-                <img src="nissin.jpg" alt="日清出前一丁">
+                <img src="https://i3.momoshop.com.tw/1692555084/goodsimg/0004/832/087/4832087_R_m.webp" alt="日清出前一丁">
                 <p>日清出前一丁</p>
                 <p>評分：4/5</p>
                 <p>這是一種日本風味的泡麵，湯底清淡而鮮香，麵條細而彈牙，適合喜歡簡單的口味的人。</p>
@@ -89,7 +90,7 @@
                 <p>這是一種日本風味的泡麵，湯底濃郁而香，麵條細而有嚼勁，適合喜歡烏龍麵的口味的人。</p>
             </td>
             <td>
-                <img src="sapporo.jpg" alt="札幌一番味噌拉麵">
+                <img src="https://down-tw.img.susercontent.com/file/3497bee7cf0211c0575027ad0d8d3c64" alt="札幌一番味噌拉麵">
                 <p>札幌一番味噌拉麵</p>
                 <p>評分：4.5/5</p>
                 <p>這是一種日本風味的泡麵，沒有熱湯，而是用冷水泡麵，麵條粗而有嚼勁，適合喜歡味噌的口味的人。</p>

@@ -21,20 +21,43 @@
             width: 100px;
             height: 100px;
         }
+        .shadowbox {
+            width: 60.8em;
+            height: 20px;
+            border: 1px solid #333;
+            box-shadow: 8px 8px 5px #444;
+           padding: 8px 12px;
+         background-image: linear-gradient(180deg, #fff, #ddd 40%, #ccc);
+    }
     </style>
 </head>
 <body>
-    <select onChange="location = this.options[this.selectedIndex].value;">
+    <h1>泡麵介紹</h1>
+    <p>泡麵是一種方便又美味的食物，它有各種不同的口味和風格，可以滿足不同的喜好和需求。這裡介紹了10種泡麵，並按照產地的國家分為六個分類：泰國、韓國、日本、台灣、印尼和馬來西亞。每種泡麵都有一張圖片和一個評分，評分是根據網路上的評論和個人的喜好而定，僅供參考。</p>
+    <body>
+    <select style="border:2px black solid;font-size:15px;background-color:#E3E3E3;" onChange="location = this.options[this.selectedIndex].value;">
             <option value="#">請選擇</option>
             <option value="https://quannnyu.github.io/">國家</option>
             <option value="http://tw.yahoo.com">評分</option>
             <option value="http://www.php.net">價錢</option>
      </select>
-    <h1>泡麵介紹</h1>
-    <p>泡麵是一種方便又美味的食物，它有各種不同的口味和風格，可以滿足不同的喜好和需求。這裡介紹了10種泡麵，並按照產地的國家分為六個分類：泰國、韓國、日本、台灣、印尼和馬來西亞。每種泡麵都有一張圖片和一個評分，評分是根據網路上的評論和個人的喜好而定，僅供參考。</p>
+    <div style="border:2px black solid;font-size:20px;background-color:#E3E3E3 ;">
+           &nbsp &nbsp <a href="#泰國">泰國</a>
+           &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+           <a href="#韓國">韓國</a>
+           &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+           <a href="#日本">日本</a>
+           &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+           <a href="#台灣">台灣</a>
+           &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+           <a href="#印尼">印尼</a>
+           &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+           <a href="#馬來西亞">馬來西亞</a>
+    </div>
+    <body>
     <table>
         <tr>
-            <td>泰國</td>
+            <td id="泰國">泰國</td>
         </tr>
         <tr>
             <td>
@@ -64,7 +87,7 @@
             </td>
         </tr>
         <tr>
-            <td>韓國</td>
+            <td id="韓國">韓國</td>
         </tr>
         <tr>
             <td>
@@ -95,7 +118,7 @@
             </td>
         </tr>
         <tr>
-            <td>日本</td>
+            <td id="日本">日本</td>
         </tr>
         <tr>
             <td>
@@ -124,7 +147,7 @@
             </td>
         </tr>
         <tr>
-            <td>台灣</td>
+            <td id="台灣">台灣</td>
         </tr>
         <tr>
             <td>
@@ -155,7 +178,7 @@
             </td>
         </tr>
         <tr>
-            <td>印尼</td>
+            <td id="印尼">印尼</td>
         </tr>
         <tr>
             <td>
@@ -168,7 +191,7 @@
             </td>
         </tr>
         <tr>
-            <td>馬來西亞</td>
+            <td id="馬來西亞">馬來西亞</td>
         </tr>
         <tr>
             <td>

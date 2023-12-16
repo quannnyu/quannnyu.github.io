@@ -24,6 +24,12 @@
     </style>
 </head>
 <body>
+    <select onChange="location = this.options[this.selectedIndex].value;">
+            <option value="#">請選擇</option>
+            <option value="https://quannnyu.github.io/">國家</option>
+            <option value="http://tw.yahoo.com">評分</option>
+            <option value="http://www.php.net">價錢</option>
+     </select>
     <h1>泡麵介紹</h1>
     <p>泡麵是一種方便又美味的食物，它有各種不同的口味和風格，可以滿足不同的喜好和需求。這裡介紹了10種泡麵，並按照產地的國家分為六個分類：泰國、韓國、日本、台灣、印尼和馬來西亞。每種泡麵都有一張圖片和一個評分，評分是根據網路上的評論和個人的喜好而定，僅供參考。</p>
     <table>

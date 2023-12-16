@@ -39,7 +39,7 @@
         </tr>
         <tr>
             <td>
-                <img src="nissin.jpg" alt="日清出前一丁">
+                <img src="https://i3.momoshop.com.tw/1692555084/goodsimg/0004/832/087/4832087_R_m.webp" alt="日清出前一丁">
                 <p>日清出前一丁</p>
                 <p>評分：4/5</p>
                 <p>這是一種日本風味的泡麵，湯底清淡而鮮香，麵條細而彈牙，適合喜歡簡單的口味的人。</p>

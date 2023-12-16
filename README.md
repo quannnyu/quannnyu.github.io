@@ -57,7 +57,7 @@
     <body>
     <table>
         <tr>
-            <td id="泰國">泰國</td>
+            <td id="泰國" style="background-color:e0f8e0;">泰國</td>
         </tr>
         <tr>
             <td>
@@ -87,7 +87,7 @@
             </td>
         </tr>
         <tr>
-            <td id="韓國">韓國</td>
+            <td id="韓國" style="background-color:e0f8e0;">韓國</td>
         </tr>
         <tr>
             <td>
@@ -111,14 +111,13 @@
                 <a href="https://shopee.tw/韓國-農心冷麵-韓式傳統泡菜冷麵-水冷麵(-4入)-韓式傳統拌拌冷麵(-4入)-i.144122.2182023235?sp_atk=1e1248aa-9ffc-4f46-8052-9ee235c0b53c&xptdk=1e1248aa-9ffc-4f46-8052-9ee235c0b53c)">
     <img src="https://mall.iopenmall.tw/website/uploads_product/website_295/P0029504483631_3_39411268.jpeg?hash=55836" alt="農心冷麵">
 </a>
-
                 <p>農心冷麵</p>
                 <p>評分：4/5</p>
                 <p>這是一種韓國風味的泡麵，沒有熱湯，而是用冷水泡麵，麵條細而爽，適合喜歡清爽的口味的人。</p>
             </td>
         </tr>
         <tr>
-            <td id="日本">日本</td>
+            <td id="日本" style="background-color:e0f8e0;">日本</td>
         </tr>
         <tr>
             <td>
@@ -147,7 +146,7 @@
             </td>
         </tr>
         <tr>
-            <td id="台灣">台灣</td>
+            <td id="台灣" style="background-color:e0f8e0;">台灣</td>
         </tr>
         <tr>
             <td>
@@ -178,7 +177,7 @@
             </td>
         </tr>
         <tr>
-            <td id="印尼">印尼</td>
+            <td id="印尼" style="background-color:e0f8e0;">印尼</td>
         </tr>
         <tr>
             <td>
@@ -191,7 +190,7 @@
             </td>
         </tr>
         <tr>
-            <td id="馬來西亞">馬來西亞</td>
+            <td id="馬來西亞" style="background-color:e0f8e0;">馬來西亞</td>
         </tr>
         <tr>
             <td>

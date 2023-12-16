@@ -1,7 +1,12 @@
+<!DOCTYPE html>
 <html>
 <head>
     <title>泡麵介紹</title>
     <style>
+        body {
+            background-color: #add8e6; /* Light Blue */
+        }
+
         h1 {
             text-align: center;
         }

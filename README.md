@@ -54,7 +54,7 @@
                 <p>這是一種泰國風味的泡麵，湯底酸辣而鮮，麵條細而有彈性，適合喜歡海鮮的口味的人。</p>
             </td>
             <td>
-                <a href="https://shopee.tw/【倫威】泰國-MAMA-媽媽麵-泡麵-湯麵-單包-蝦味麵-特級酸辣味麵-肉碎味麵-i.240268128.6579247706)">
+                <a href="https://www.luenwey.com/product/mama-instant-noodles-shrimp-creamy-tom-yum-flavor/">
     <img src="https://www.luenwey.com/wp-content/uploads/2020/04/F010-%E6%B3%B0%E5%9C%8BMAMA%E7%89%8C%E6%B3%A1%E9%BA%B5-%E7%89%B9%E7%B4%9A%E6%A4%B0%E5%A5%B6%E9%BA%B5.jpg" alt="MAMA 牌泡麵- 特級椰奶麵">
 </a>
 

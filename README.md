@@ -38,7 +38,7 @@
     <select style="border:2px black solid;font-size:15px;background-color:#E3E3E3;" onChange="location = this.options[this.selectedIndex].value;">
             <option value="#">請選擇</option>
             <option value="https://quannnyu.github.io/">國家</option>
-            <option value="http://tw.yahoo.com">評分</option>
+            <option value="https://krychen0207.github.io/">評分</option>
             <option value="http://www.php.net">價錢</option>
      </select>
     <div style="border:2px black solid;font-size:20px;background-color:#E3E3E3 ;">

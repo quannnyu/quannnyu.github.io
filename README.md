@@ -2,119 +2,114 @@
 <head>
     <title>泡麵介紹</title>
     <style>
-        * {
-            box-sizing: border-box;
-            margin: 0;
-            padding: 0;
-        }
         h1 {
             text-align: center;
-            font-family: "微軟正黑體", sans-serif;
-            font-size: 36px;
-            color: white;
-            background-color: #ff6600;
-            padding: 20px;
         }
+
         table {
+            margin: auto;
             border-collapse: collapse;
-            width: 80%;
-            margin: 20px auto;
         }
-        th, td {
-            border: 1px solid #cccccc;
+
+        td {
+            border: 1px solid black;
             padding: 10px;
-            font-family: "微軟正黑體", sans-serif;
-            font-size: 18px;
         }
-        th {
-            background-color: #ffcc66;
-            color: white;
-        }
+
         img {
             width: 100px;
             height: 100px;
-            object-fit: cover;
-        }
-        p {
-            font-family: "微軟正黑體", sans-serif;
-            font-size: 18px;
-            text-align: justify;
-            line-height: 1.5;
-            margin: 20px;
         }
     </style>
 </head>
 <body>
     <h1>泡麵介紹</h1>
-    <p>泡麵是一種方便的速食麵，只要用熱水沖泡或煮熟，就可以享用。泡麵的種類和口味非常多，不同的國家和地區有不同的特色。這裡我們介紹10種台灣人喜歡的泡麵：</p>
+    <p>泡麵是一種方便又美味的食物，它有各種不同的口味和風格，可以滿足不同的喜好和需求。這裡介紹了10種泡麵，並按照湯底的種類分為四個分類：清湯、濃湯、乾拌和冷麵。每種泡麵都有一張圖片和一個評分，評分是根據網路上的評論和個人的喜好而定，僅供參考。</p>
     <table>
         <tr>
-            <th>泡麵名稱</th>
-            <th>圖片</th>
-            <th>口味</th>
-            <th>評分</th>
+            <td>清湯</td>
+            <td>濃湯</td>
+            <td>乾拌</td>
+            <td>冷麵</td>
         </tr>
         <tr>
-            <td>維力炸醬麵</td>
-            <td><img src="weili.jpg"></td>
-            <td>這是一款乾拌麵，以黑色的炸醬和香菜調味，麵條細而彈牙，適合喜歡重口味的人。</td>
-            <td>4.5/5</td>
+            <td>
+                <img src="nissin.jpg" alt="日清出前一丁">
+                <p>日清出前一丁</p>
+                <p>評分：4/5</p>
+                <p>這是一種日本風味的泡麵，湯底清淡而鮮香，麵條細而彈牙，適合喜歡簡單的口味的人。</p>
+            </td>
+            <td>
+                <img src="shin.jpg" alt="農心辛拉麵">
+                <p>農心辛拉麵</p>
+                <p>評分：5/5</p>
+                <p>這是一種韓國風味的泡麵，湯底濃郁而辣，麵條粗而有嚼勁，適合喜歡刺激的口味的人。</p>
+            </td>
+            <td>
+                <img src="indomie.jpg" alt="印尼炒麵">
+                <p>印尼炒麵</p>
+                <p>評分：4.5/5</p>
+                <p>這是一種印尼風味的泡麵，沒有湯汁，而是用醬料拌麵，麵條細而香，適合喜歡多種味道的人。</p>
+            </td>
+            <td>
+                <img src="samyang.jpg" alt="三養冷麵">
+                <p>三養冷麵</p>
+                <p>評分：3.5/5</p>
+                <p>這是一種韓國風味的泡麵，沒有熱湯，而是用冷水泡麵，麵條粗而爽，適合喜歡清爽的口味的人。</p>
+            </td>
         </tr>
         <tr>
-            <td>辛拉麵</td>
-            <td><img src="shin.jpg"></td>
-            <td>這是一款韓國泡麵，湯頭紅辣椒和香料的味道濃郁，麵條寬而有嚼勁，適合喜歡辣的人。</td>
-            <td>4.7/5</td>
+            <td>
+                <img src="koka.jpg" alt="KOKA蘑菇雞湯麵">
+                <p>KOKA蘑菇雞湯麵</p>
+                <p>評分：3/5</p>
+                <p>這是一種新加坡風味的泡麵，湯底清淡而香，麵條細而滑，適合喜歡自然的口味的人。</p>
+            </td>
+            <td>
+                <img src="mama.jpg" alt="MAMA豬肉味湯麵">
+                <p>MAMA豬肉味湯麵</p>
+                <p>評分：3.5/5</p>
+                <p>這是一種泰國風味的泡麵，湯底濃郁而酸辣，麵條細而軟，適合喜歡酸辣的口味的人。</p>
+            </td>
+            <td>
+                <img src="master.jpg" alt="大師兄麻辣牛肉麵">
+                <p>大師兄麻辣牛肉麵</p>
+                <p>評分：4/5</p>
+                <p>這是一種台灣風味的泡麵，沒有湯汁，而是用醬料拌麵，麵條粗而彈，適合喜歡麻辣的口味的人。</p>
+            </td>
+            <td>
+                <img src="sapporo.jpg" alt="札幌一番味噌拉麵">
+                <p>札幌一番味噌拉麵</p>
+                <p>評分：4.5/5</p>
+                <p>這是一種日本風味的泡麵，沒有熱湯，而是用冷水泡麵，麵條粗而有嚼勁，適合喜歡味噌的口味的人。</p>
+            </td>
         </tr>
         <tr>
-            <td>安城湯麵</td>
-            <td><img src="anchong.jpg"></td>
-            <td>這是一款韓國泡麵，湯頭以牛肉和大骨為主，麵條細而滑順，適合喜歡清淡的人。</td>
-            <td>4.6/5</td>
-        </tr>
-        <tr>
-            <td>出前一丁</td>
-            <td><img src="chuqian.jpg"></td>
-            <td>這是一款日本泡麵，湯頭以醬油和昆布為主，麵條細而有彈性，適合喜歡日式風味的人。</td>
-            <td>4.4/5</td>
-        </tr>
-        <tr>
-            <td>一度贊麻辣麵</td>
-            <td><img src="yiduzan.jpg"></td>
-            <td>這是一款四川泡麵，湯頭以花椒和辣椒為主，麵條寬而有嚼勁，適合喜歡麻辣的人。</td>
-            <td>4.8/5</td>
-        </tr>
-        <tr>
-            <td>泰式打拋豬麵</td>
-            <td><img src="thaipork.jpg"></td>
-            <td>這是一款泰國泡麵，湯頭以檸檬草和魚露為主，麵條細而有彈性，適合喜歡酸辣的人。</td>
-            <td>4.5/5</td>
-        </tr>
-        <tr>
-            <td>印尼炒麵</td>
-            <td><img src="indofry.jpg"></td>
-            <td>這是一款印尼泡麵，以乾拌的方式食用，醬料以甜醬和辣椒為主，麵條寬而有嚼勁，適合喜歡甜辣的人。</td>
-            <td>4.6/5</td>
-        </tr>
-        <tr>
-            <td>老坛酸菜牛肉面</td>
-            <td><img src="laotan.jpg"></td>
-            <td>這是一款中國泡麵，湯頭以酸菜和牛肉為主，麵條細而有彈性，適合喜歡酸鹹的人。</td>
-            <td>4.7/5</td>
-        </tr>
-        <tr>
-            <td>海底撈麻辣牛油火鍋麵</td>
-            <td><img src="haidilao.jpg"></td>
-            <td>這是一款火鍋泡麵，湯頭以牛油和辣椒為主，麵條寬而有嚼勁，適合喜歡濃郁的人。</td>
-            <td>4.9/5</td>
-        </tr>
-        <tr>
-            <td>韓國炸雞麵</td>
-            <td><img src="korean.jpg"></td>
-            <td>這是一款韓國泡麵，湯頭以炸雞和甜辣醬為主，麵條細而有彈性，適合喜歡甜辣的人。</td>
-            <td>4.8/5</td>
+            <td>
+                <img src="kungfu.jpg" alt="功夫牌酸辣牛肉麵">
+                <p>功夫牌酸辣牛肉麵</p>
+                <p>評分：4.5/5</p>
+                <p>這是一種中國風味的泡麵，湯底清淡而酸辣，麵條細而有彈性，適合喜歡酸辣的口味的人。</p>
+            </td>
+            <td>
+                <img src="prima.jpg" alt="Prima味增海鮮湯麵">
+                <p>Prima味增海鮮湯麵</p>
+                <p>評分：5/5</p>
+                <p>這是一種新加坡風味的泡麵，湯底濃郁而鮮甜，麵條粗而有嚼勁，適合喜歡海鮮的口味的人。</p>
+            </td>
+            <td>
+                <img src="maggi.jpg" alt="Maggi咖哩麵">
+                <p>Maggi咖哩麵</p>
+                <p>評分：3/5</p>
+                <p>這是一種印度風味的泡麵，沒有湯汁，而是用醬料拌麵，麵條細而香，適合喜歡咖哩的口味的人。</p>
+            </td>
+            <td>
+                <img src="nongshim.jpg" alt="農心冷麵
+                                <p>農心冷麵</p>
+                <p>評分：4/5</p>
+                <p>這是一種韓國風味的泡麵，沒有熱湯，而是用冷水泡麵，麵條細而爽，適合喜歡清爽的口味的人。</p>
+            </td>
         </tr>
     </table>
-    <p>以上是我為你修改的泡麵介紹網站，希望你喜歡。你可以自己加入更多的內容和圖片，或者修改一些細節，讓你的網站更完美。</p>
 </body>
 </html>

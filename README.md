@@ -2,21 +2,45 @@
 <head>
     <title>泡麵介紹</title>
     <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
         h1 {
             text-align: center;
+            font-family: "微軟正黑體", sans-serif;
+            font-size: 36px;
+            color: white;
+            background-color: #ff6600;
+            padding: 20px;
         }
         table {
             border-collapse: collapse;
             width: 80%;
-            margin: auto;
+            margin: 20px auto;
         }
         th, td {
-            border: 1px solid black;
+            border: 1px solid #cccccc;
             padding: 10px;
+            font-family: "微軟正黑體", sans-serif;
+            font-size: 18px;
+        }
+        th {
+            background-color: #ffcc66;
+            color: white;
         }
         img {
             width: 100px;
             height: 100px;
+            object-fit: cover;
+        }
+        p {
+            font-family: "微軟正黑體", sans-serif;
+            font-size: 18px;
+            text-align: justify;
+            line-height: 1.5;
+            margin: 20px;
         }
     </style>
 </head>
@@ -91,6 +115,6 @@
             <td>4.8/5</td>
         </tr>
     </table>
-    <p>以上是我為你寫的泡麵介紹網站的草稿，希望你喜歡。你可以自己加入更多的內容和圖片，或者修改一些細節，讓你的網站更完美。</p>
+    <p>以上是我為你修改的泡麵介紹網站，希望你喜歡。你可以自己加入更多的內容和圖片，或者修改一些細節，讓你的網站更完美。</p>
 </body>
 </html>

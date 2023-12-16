@@ -1,19 +1,32 @@
-<html>
+<html lang="zh-TW">
 <head>
+    <meta charset="UTF-8">
     <title>泡麵介紹</title>
     <style>
         h1 {
             text-align: center;
+            font-size: 28px; /* 調整標題的字體大小 */
+            font-weight: bold; /* 調整標題的粗細 */
+        }
+
+        p {
+            font-size: 16px;
         }
 
         table {
             margin: auto;
             border-collapse: collapse;
+            margin-top: 20px; /* 調整表格與上方段落的間距 */
         }
 
         td {
             border: 1px solid black;
             padding: 10px;
+            font-size: 14px; /* 調整表格內字體大小 */
+        }
+
+        td p {
+            font-weight: bold; /* 調整表格內文字的粗細 */
         }
 
         img {

@@ -4,7 +4,7 @@
     <title>泡麵介紹</title>
     <style>
         body {
-            background-color: #90ee90; /* Light Green */
+            background-color: #b0e57c; /* Soft Green */
         }
 
         h1 {

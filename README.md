@@ -1,33 +1,19 @@
-<html lang="zh-TW">
+<html>
 <head>
-    <meta charset="UTF-8">
     <title>泡麵介紹</title>
     <style>
         h1 {
             text-align: center;
-            font-size: 28px;
-            font-weight: bold;
-        }
-
-        p {
-            font-size: 16px;
         }
 
         table {
             margin: auto;
             border-collapse: collapse;
-            margin-top: 20px;
-            background-color: #e0f8e0; /* 很淡的綠色背景 */
         }
 
         td {
             border: 1px solid black;
             padding: 10px;
-            font-size: 14px;
-        }
-
-        td p {
-            font-weight: bold;
         }
 
         img {
@@ -37,14 +23,6 @@
     </style>
 </head>
 <body>
-    <h1>泡麵介紹</h1>
-    <p>泡麵是一種方便又美味的食物，它有各種不同的口味和風格，可以滿足不同的喜好和需求。這裡介紹了10種泡麵，並按照產地的國家分為六個分類：泰國、韓國、日本、台灣、印尼和馬來西亞。每種泡麵都有一張圖片和一個評分，評分是根據網路上的評論和個人的喜好而定，僅供參考。</p>
-    <table>
-        <!-- 省略部分 -->
-    </table>
-</body>
-</html>
-
     <h1>泡麵介紹</h1>
     <p>泡麵是一種方便又美味的食物，它有各種不同的口味和風格，可以滿足不同的喜好和需求。這裡介紹了10種泡麵，並按照產地的國家分為六個分類：泰國、韓國、日本、台灣、印尼和馬來西亞。每種泡麵都有一張圖片和一個評分，評分是根據網路上的評論和個人的喜好而定，僅供參考。</p>
     <table>

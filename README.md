@@ -15,6 +15,7 @@
         td {
             border: 1px solid black;
             padding: 10px;
+            background-color: #e0f8e0;
         }
 
         img {
@@ -57,7 +58,7 @@
     <body>
     <table>
         <tr>
-            <td id="泰國" style="background-color:e0f8e0;">泰國</td>
+            <td id="泰國" bgcolor="#e0f8e0">泰國</td>
         </tr>
         <tr>
             <td>
@@ -117,7 +118,7 @@
             </td>
         </tr>
         <tr>
-            <td id="日本" style="background-color:e0f8e0;">日本</td>
+            <td id="日本" style="background-color:#e0f8e0;">日本</td>
         </tr>
         <tr>
             <td>
@@ -146,7 +147,7 @@
             </td>
         </tr>
         <tr>
-            <td id="台灣" style="background-color:e0f8e0;">台灣</td>
+            <td id="台灣" style="background-color:#e0f8e0;">台灣</td>
         </tr>
         <tr>
             <td>
@@ -177,7 +178,7 @@
             </td>
         </tr>
         <tr>
-            <td id="印尼" style="background-color:e0f8e0;">印尼</td>
+            <td id="印尼" style="background-color:#e0f8e0;">印尼</td>
         </tr>
         <tr>
             <td>
@@ -190,7 +191,7 @@
             </td>
         </tr>
         <tr>
-            <td id="馬來西亞" style="background-color:e0f8e0;">馬來西亞</td>
+            <td id="馬來西亞" style="background-color:#e0f8e0;">馬來西亞</td>
         </tr>
         <tr>
             <td>

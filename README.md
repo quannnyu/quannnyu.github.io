@@ -5,8 +5,8 @@
     <style>
         h1 {
             text-align: center;
-            font-size: 28px; /* 調整標題的字體大小 */
-            font-weight: bold; /* 調整標題的粗細 */
+            font-size: 28px;
+            font-weight: bold;
         }
 
         p {
@@ -16,17 +16,18 @@
         table {
             margin: auto;
             border-collapse: collapse;
-            margin-top: 20px; /* 調整表格與上方段落的間距 */
+            margin-top: 20px;
+            background-color: #e0f8e0; /* 很淡的綠色背景 */
         }
 
         td {
             border: 1px solid black;
             padding: 10px;
-            font-size: 14px; /* 調整表格內字體大小 */
+            font-size: 14px;
         }
 
         td p {
-            font-weight: bold; /* 調整表格內文字的粗細 */
+            font-weight: bold;
         }
 
         img {
@@ -36,6 +37,14 @@
     </style>
 </head>
 <body>
+    <h1>泡麵介紹</h1>
+    <p>泡麵是一種方便又美味的食物，它有各種不同的口味和風格，可以滿足不同的喜好和需求。這裡介紹了10種泡麵，並按照產地的國家分為六個分類：泰國、韓國、日本、台灣、印尼和馬來西亞。每種泡麵都有一張圖片和一個評分，評分是根據網路上的評論和個人的喜好而定，僅供參考。</p>
+    <table>
+        <!-- 省略部分 -->
+    </table>
+</body>
+</html>
+
     <h1>泡麵介紹</h1>
     <p>泡麵是一種方便又美味的食物，它有各種不同的口味和風格，可以滿足不同的喜好和需求。這裡介紹了10種泡麵，並按照產地的國家分為六個分類：泰國、韓國、日本、台灣、印尼和馬來西亞。每種泡麵都有一張圖片和一個評分，評分是根據網路上的評論和個人的喜好而定，僅供參考。</p>
     <table>
@@ -114,7 +123,7 @@
         </tr>
         <tr>
             <td>
-                <img src="master.jpg" alt="大師兄麻辣牛肉麵">
+                <img src="https://i2.momoshop.com.tw/1692990857/goodsimg/0008/621/629/8621629_R_m.webp" alt="大師兄麻辣牛肉麵">
                 <p>大師兄麻辣牛肉麵</p>
                 <p>評分：4/5</p>
                 <p>這是一種台灣風味的泡麵，沒有湯汁，而是用醬料拌麵，麵條粗而彈，適合喜歡麻辣的口味的人。</p>

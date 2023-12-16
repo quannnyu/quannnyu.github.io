@@ -38,7 +38,7 @@
         </tr>
         <tr>
             <td>
-           <a href="https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=8388822&osm=Ad07&utm_source=googleshop&utm_medium=traffic-pla&utm_content=bn&gclid=Cj0KCQiAsvWrBhC0ARIsAO4E6f9wg9dAJbH_SQH0nURiHkyyGAT-KUbZig3R_4xBl9zNROwsl-MO0i4aAtLfEALw_wcB)](https://shopee.tw/%E3%80%90%E5%80%AB%E5%A8%81%E3%80%91%E6%B3%B0%E5%9C%8B-MAMA-%E5%AA%BD%E5%AA%BD%E9%BA%B5-%E6%B3%A1%E9%BA%B5-%E6%B9%AF%E9%BA%B5-%E5%96%AE%E5%8C%85-%E8%9D%A6%E5%91%B3%E9%BA%B5-%E7%89%B9%E7%B4%9A%E9%85%B8%E8%BE%A3%E5%91%B3%E9%BA%B5-%E8%82%89%E7%A2%8E%E5%91%B3%E9%BA%B5-i.240268128.6579247706)">
+           <a href="https://www.amazon.com/-/zh_TW/MAMA-%E7%BE%8E%E5%91%B3%E6%B3%B0%E5%9C%8B%E9%A2%A8%E5%91%B3-%E9%99%84%E8%B1%AC%E8%82%89%E6%B9%AF%E5%BA%95-%E7%84%A1%E5%8F%8D%E5%BC%8F%E8%84%82%E8%82%AA-%E5%8D%A1%E8%B7%AF%E9%87%8C%E6%AF%94%E6%B2%B9%E7%82%B8%E9%BA%B5%E6%9B%B4%E5%B0%91/dp/B00CRJ2WLW?th=1">
     <img src="https://www.luenwey.com/wp-content/uploads/2020/04/F012-%E6%B3%B0%E5%9C%8BMAMA%E7%89%8C%E6%B3%A1%E9%BA%B5-%E8%AA%BF%E5%91%B3%E6%B9%AF%E9%BA%B5%E8%B1%AC%E8%82%9D.jpg" alt="MAMA豬肉味湯麵">
 </a>
                 <p>Mama豬肉味湯麵</p>
@@ -46,7 +46,7 @@
                 <p>這是一種泰國風味的泡麵，湯底濃郁而酸辣，麵條細而軟，適合喜歡酸辣的口味的人。</p>
             </td>
             <td>
-        <a href="https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=8388822&osm=Ad07&utm_source=googleshop&utm_medium=traffic-pla&utm_content=bn&gclid=Cj0KCQiAsvWrBhC0ARIsAO4E6f9wg9dAJbH_SQH0nURiHkyyGAT-KUbZig3R_4xBl9zNROwsl-MO0i4aAtLfEALw_wcB)">
+        <a href="https://www.luenwey.com/product/mama-instant-noodles-shrimp-tom-yum-flavor/">
     <img src="https://shop.7-11.com.tw/mdz_file/item/24/02/04/1807/18070002217G_intr_b_10_230425183758.jpg" alt="Mama泰式泡麵酸辣蝦">
 </a>                
                 <p>Mama泰式泡麵酸辣蝦</p>
@@ -77,7 +77,7 @@
                 <p>這是一種韓國風味的泡麵，湯底濃郁而辣，麵條粗而有嚼勁，適合喜歡刺激的口味的人。</p>
             </td>
             <td>
-                <a href="https://shopee.tw/《-Chara-微百貨-》含稅附發票-韓國-三養-奶油-泡麵-辣雞-起司-2倍辣-麻辣-泡菜-炒麵-辣雞麵-i.12518077.2093167763?sp_atk=b76ab4cd-8a30-4493-a296-663b9c7b9831&xptdk=b76ab4cd-8a30-4493-a296-663b9c7b9831)">
+                <a href="https://www.rakuten.com.tw/shop/muma168/product/463763514/?scid=rafp-b118&utm_source=biggo&utm_medium=rafp-b118&utm_campaign=normal&gid=E-sEdIwBIY_jaVSsoE3n&pr=420457e88ecc9146&ts=1702753510518&aff_click_id=d9b86d9a-b82a-4729-9543-5a3002ba7252)">
     <img src="https://down-tw.img.susercontent.com/file/02b703eb6eb6c67322703da26d5c7957" alt="三養冷麵">
 </a>
                 <p>三養冷麵</p>
